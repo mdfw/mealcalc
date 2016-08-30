@@ -1,0 +1,7 @@
+The total bill is $57.283199999999994.
+David tips $3.1643999999999997.
+Jackson tips $3.2927999999999997.
+Fariq tips $3.9560000000000004.
+David ate Avocado Dip($6.79) and Fajitas($10.79) - Total: $17.58, Tax: $1.4063999999999999, Tip $3.1643999999999997.
+Jackson ate Hummus($4.99) and Chicken Enchiladas($10.69) - Total: $15.68, Tax: $1.2544, Tip $3.2927999999999997.
+Fariq ate Mahi Mahi($11.79) and Fish Tacos($7.99) - Total: $19.78, Tax: $1.5824, Tip $3.9560000000000004.
